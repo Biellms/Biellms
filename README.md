@@ -23,8 +23,3 @@
   <a href = "https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
-
-### Quantidade de visitas:
-<p align="left"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg"/>
-</p>
