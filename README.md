@@ -1,16 +1,30 @@
-### Hi there 👋
+## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Gabriel ⚡
 
-<!--
-**Biellms/Biellms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - FAM (Faculdade das Américas)
+- 🖥 Desenvolvedor Java Full-Stack Jr. em formação - Generation Brasil
+- 🎮 Hobby: jogar joguinhos de tiro 
 
-Here are some ideas to get you started:
+<div align = "center">
+  <a href="https://github.com/Biellms">
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<div style="display: inline_block" align = "center"><br>
+  <img alt="Biell-C" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Biell-C" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Biell-Java" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img alt="Biell-Git" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+<div align = "center">
+  <a href = "mailto:biell.mendes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "www.linkedin.com/in/gabriel-mendes-0706ab1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
+
+### Quantidade visitas:
+<p align="left"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg"/>
+</p>
