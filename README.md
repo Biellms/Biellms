@@ -3,6 +3,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - FAM (Faculdade das Américas)
 - 🖥 Desenvolvedor Java Full-Stack Jr. em formação - Generation Brasil
 - 🎮 Hobby: jogar joguinhos de tiro 
+- 📍 São Paulo - SP
 
 <div align = "center">
   <a href="https://github.com/Biellms">
@@ -22,4 +23,7 @@
 <div align = "left">
   <a href = "mailto:biell.mendes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/Biellms/Biellms/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
