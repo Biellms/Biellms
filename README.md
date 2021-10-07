@@ -7,14 +7,14 @@
 
 <div align = "center">
   <a href="https://github.com/Biellms">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block" align = "left"><br>
-  <img alt="Biell-C" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Biell-C" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="Biell-Java" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img alt="Biell-Git" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Biell-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img alt="Biell-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
 </div>
 
