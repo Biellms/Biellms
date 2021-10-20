@@ -27,3 +27,10 @@
   ![Snake animation](https://github.com/Biellms/Biellms/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  ##
+  
+<h4><p align="center">  Total de Visitas no Perfil <br>
+<p align="center">
+   <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg" />
+</p>
