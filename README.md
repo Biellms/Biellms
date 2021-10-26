@@ -34,7 +34,7 @@
   
   ##
   
-<h4><p align="center">Total de Visitas no Perfil</p> <br>
+<h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg" />
 </p>
