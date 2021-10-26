@@ -10,19 +10,23 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<div style="display: inline_block" align = "left"><br>
-  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="Biell-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  
+<h3><p align="left">• Language and Tools 🛠</p>
+  
+<table><div style="display: inline_block" align = "left">
+  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="Biell-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
   <img alt="Biell-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
-</div>
+  </div></table>
 
 ##
-  
-<div align = "left">
+
+<table><div align = "left">
+  <h3><p>• Contato ✉</p>
   <a href = "mailto:biell.mendes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/gabriel-mendes-0706ab1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></table>
   
   ![Snake animation](https://github.com/Biellms/Biellms/blob/output/github-contribution-grid-snake.svg)
   
@@ -30,7 +34,7 @@
   
   ##
   
-<h4><p align="center">  Total de Visitas no Perfil <br>
+<h4><p align="center">Total de Visitas no Perfil</p> <br>
 <p align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg" />
 </p>
