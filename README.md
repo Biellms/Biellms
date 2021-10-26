@@ -11,7 +11,7 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<h3><p align="left">• Language and Tools 🛠</p>
+<h3><p align="left">• Languages and Tools 🛠</p>
   
 <table><div style="display: inline_block" align = "left">
   <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
