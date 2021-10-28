@@ -14,14 +14,17 @@
 <h3><p align="left">• Languages and Tools 🛠</p>
   
 <table><div style="display: inline_block" align = "left">
-  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img alt="Biell-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="Biell-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Biell-eclipse" height="30" width="34" src="https://i.imgur.com/U39kbHs.png"/>
   <img alt="Biell-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+  <img alt="Biell-MySql" height="32" width="32" src="https://i.imgur.com/zx4aW9R.png"/>
+  <img alt="Biell-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Biell-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="Biell-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
   </div></table>
 
-##
+<hr>
 
 <table><div align = "left">
   <h3><p>• Contato ✉</p>
@@ -32,9 +35,9 @@
   
 </div>
   
-  ##
+<hr>
   
 <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
-   <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg" />
+    <img alingn="center" src="https://profile-counter.glitch.me/Biellms/count.svg"/>
 </p>
