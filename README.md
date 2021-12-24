@@ -5,7 +5,7 @@
 ## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Gabriel ⚡
 
 - 🏢 Desenvolvedor Java Jr. - Foursys
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - FAM (Faculdade das Américas)
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas
 - 🖥 Desenvolvedor Java Full-Stack Jr. Formado - Generation Brasil
 - 🎮 Hobby: jogar joguinhos de tiro 
 - 📍 São Paulo - SP
