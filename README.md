@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.imgur.com/ot2rtaS.gif">
+  </div>
+
 ## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Gabriel ⚡
 
 - 🏢 Desenvolvedor Java Jr. - Foursys
