@@ -12,7 +12,7 @@
 
 <div align = "center">
   <a href="https://github.com/Biellms">
-  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
+  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
