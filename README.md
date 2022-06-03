@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/ot2rtaS.gif">
   </div>
 
-## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu me chamo Gabriel, 20y ⚡
+## Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Gabriel, 20y <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">
 
 - 🏢 Desenvolvedor Java Jr. - Foursys
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas
