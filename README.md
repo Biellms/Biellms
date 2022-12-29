@@ -12,8 +12,8 @@
 
 <div align = "center">
   <a href="https://github.com/Biellms">
-  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <h2><p align="left">• Languages and Tools 🛠</p>
