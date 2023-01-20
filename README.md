@@ -58,8 +58,6 @@
   <img align="right" alt="Biell-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif">
   </div></table>
 
-<br><br>
-
 <hr>
 
 <br>
