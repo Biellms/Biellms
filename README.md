@@ -28,7 +28,7 @@
 
   **<h2><p align="left">• Last Project 📁</p></h2>**
 
-  [![Readme Card](https://github-readme-stats-biellms.vercel.app/api/pin/?username=Biellms&repo=ProjetoIntegrador-EcoShop&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats-biellms.vercel.app/api/pin/?username=Biellms&repo=ProjetoIntegrador-EcoShop&show_owner=true&theme=github_dark)](https://github.com/Biellms/ProjetoIntegrador-EcoShop)
 
 </div>
   
