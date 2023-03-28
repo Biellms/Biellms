@@ -19,8 +19,12 @@
   **<h2><p align="left">• Stats 📊 </p></h2>**
 
   <a href="https://github.com/Biellms">
-  <img height="155em" src="https://github-readme-stats-biellms.vercel.app/api?username=Biellms&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="155em" src="https://github-readme-stats-biellms.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=github_dark"/></a>
+
+  ![Biellms's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=issues,contribs)
+  
+  ![Biellms's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=nord)
+
+  </a>
 
 </div>
 
@@ -28,7 +32,7 @@
 
   **<h2><p align="left">• Last Project 📁</p></h2>**
 
-  [![Readme Card](https://github-readme-stats-biellms.vercel.app/api/pin/?username=Biellms&repo=ProjetoIntegrador-EcoShop&show_owner=true&theme=github_dark)](https://github.com/Biellms/ProjetoIntegrador-EcoShop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Biellms&repo=ProjetoIntegrador-EcoShop&show_owner=true&theme=nord)](https://github.com/Biellms/ProjetoIntegrador-EcoShop)
 
 </div>
   
