@@ -7,7 +7,7 @@
 ## **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Gabriel, 21y <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
 
 - 🏢 Desenvolvedor Java Jr. - Foursys
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas
+- 📚 Formado Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas
 - 🖥 Desenvolvedor Java Full-Stack Jr. Formado - Generation Brasil
 - 🎮 Hobby: jogar joguinhos de tiro 
 - 📍 São Paulo - SP
