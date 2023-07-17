@@ -20,9 +20,9 @@
 
   <a href="https://github.com/Biellms">
 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
     
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=nord"/>
 
   </a>
   
