@@ -4,7 +4,7 @@
 
 </div>
 
-## **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Gabriel, 22y <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
+## **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu me chamo Gabriel, 23y <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
 
 - 🏢 Desenvolvedor Java - Foursys
 - 📚 Formado Análise e Desenvolvimento de Sistemas - Centro Universitário das Américas
@@ -77,8 +77,12 @@
   <a href = "https://steamcommunity.com/id/paranoidms" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 </table>
-  
-  ![Snake animation](https://github.com/Biellms/Biellms/blob/output/github-contribution-grid-snake.svg)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biellms/biellms/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biellms/biellms/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/biellms/biellms/output/pacman-contribution-graph.svg">
+  </picture>
   
 </div>
 
