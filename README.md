@@ -2,11 +2,7 @@
 
   <img src="https://i.imgur.com/ot2rtaS.gif">
 
-</div>
-
-<div align = "center">
-
-### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="50px">**
+### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="25px">**
 
 > <i>Java Developer | Postgraduate in Full-Stack Development</i>
 
@@ -16,7 +12,7 @@
 
 **<h4><p align="left">🧑🏻‍💻 About me </p></h4>**
 
-<img align="right" alt="pc-broke" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBleGFybmNvM2lpcmM4dzZ3eHJ3MjlmZHQ4YmQ0bHQ5djI2cnlzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="180" />
+<img align="right" alt="pc-broke" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBleGFybmNvM2lpcmM4dzZ3eHJ3MjlmZHQ4YmQ0bHQ5djI2cnlzeCZlcD10MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="180" />
 
 <p>Eu me chamo <b>Gabriel, 23y!</b> Sou desenvolvedor Java e apaixonado por tecnologia — especialmente por tudo que envolve programação. 🚀 Atualmente atuo como <b>Desenvolvedor Java Pleno</b> e sou Pós-Graduado em Desenvolvimento Full-Stack pela Descomplica Faculdade Digital.
 
@@ -36,33 +32,33 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <div style="display: inline_block" align = "left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jquery logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="28" alt="tortoisegit logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="28" alt="amazonwebservices logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="28" alt="apache logo"  />
  
 
@@ -95,8 +91,6 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <br>
 
 #
-
-<br>
 
 <img align="right" src="https://i.pinimg.com/736x/d4/df/50/d4df5074d6c32cd5554dcbfed8bffb50.jpg" width="150" alt="Tom Smoking" />
 
