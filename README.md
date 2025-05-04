@@ -2,7 +2,7 @@
 
   <img src="https://i.imgur.com/ot2rtaS.gif">
 
-### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="25px">**
+### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="25px">**
 
 > <i>Java Developer | Postgraduate in Full-Stack Development</i>
 
@@ -24,6 +24,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 
 <a href = "mailto:biell.mendes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/biellms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.youtube.com/@biellms" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0033&logoColor=white&labelColor=&style=for-the-badge" target="_blank"/></a>
   
 </div>
 
@@ -61,10 +62,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="28" alt="apache logo"  />
  
-
 </div>
-
-<br>
 
 #
 
