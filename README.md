@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/ot2rtaS.gif">
+  <img src="https://i.imgur.com/ot2rtaS.gif" width="550">
 
 ### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="25px">**
 
@@ -12,7 +12,7 @@
 
 **<h4><p align="left">🧑🏻‍💻 About me </p></h4>**
 
-<img align="right" alt="pc-broke" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBleGFybmNvM2lpcmM4dzZ3eHJ3MjlmZHQ4YmQ0bHQ5djI2cnlzeCZlcD10MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="180" />
+<img align="right" alt="pc-broke" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBleGFybmNvM2lpcmM4dzZ3eHJ3MjlmZHQ4YmQ0bHQ5djI2cnlzeCZlcD10MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="170" />
 
 <p>Eu me chamo <b>Gabriel, 23y!</b> Sou desenvolvedor Java e apaixonado por tecnologia — especialmente por tudo que envolve programação. 🚀 Atualmente atuo como <b>Desenvolvedor Java Pleno</b> e sou Pós-Graduado em Desenvolvimento Full-Stack pela Descomplica Faculdade Digital.
 
@@ -25,6 +25,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <a href = "mailto:biell.mendes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/biellms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.youtube.com/@biellms" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0033&logoColor=white&labelColor=&style=for-the-badge" target="_blank"/></a>
+<a href="https://t.me/Biellms" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -36,17 +37,21 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jquery logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png" height="28" alt="db2 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="28" alt="junit logo"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jquery logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
   <img width="10" />
@@ -56,7 +61,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="28" alt="tortoisegit logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="28" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="amazonwebservices logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo" />
   <img width="10" />
