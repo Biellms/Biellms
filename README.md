@@ -98,7 +98,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <img align="right" src="https://i.pinimg.com/736x/d4/df/50/d4df5074d6c32cd5554dcbfed8bffb50.jpg" width="150" alt="Tom Smoking" />
 
 > _"Life is a journey through the unknown, and though your eyes and mind may sometimes deceive you, your heart will never lie."_ 🤍
-> **<h4>Thanks for visiting!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" height="19px"/>
+> **<h4>Thanks for visiting! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" height="19px"/>
 
 <div align="center">
 
