@@ -2,7 +2,7 @@
 
   <img src="https://i.imgur.com/ot2rtaS.gif" width="550">
 
-### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" height="25px">**
+### **Eaee <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> Welcome to my GitHub <img src="https://c.tenor.com/WbDvI1hgS9wAAAAi/lightning-bots-kids-choice-awards.gif" width="25px">**
 
 > <i>Java Developer | Postgraduate in Full-Stack Development</i>
 
@@ -33,41 +33,41 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
   
 <div style="display: inline_block" align = "left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" alt="java logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" alt="spring logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png" height="28" alt="db2 logo"  />
+  <img src="https://horusinfo.com.br/wp-content/uploads/2017/05/IBM-DB2.png" width="28" alt="db2 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="28" alt="junit logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="28" alt="junit logo"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="28" alt="jquery logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="git logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="28" alt="tortoisegit logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" width="28" alt="tortoisegit logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="28" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="28" alt="amazonwebservices logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="28" alt="gcp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="28" alt="gcp logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" alt="docker logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="28" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="28" alt="apache logo"  />
  
 </div>
 
@@ -100,7 +100,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <img align="right" src="https://i.pinimg.com/736x/d4/df/50/d4df5074d6c32cd5554dcbfed8bffb50.jpg" width="150" alt="Tom Smoking" />
 
 > _"Life is a journey through the unknown, and though your eyes and mind may sometimes deceive you, your heart will never lie."_ 🤍
-> **<h4>Thanks for visiting! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" height="19px"/>
+> **<h4>Thanks for visiting! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" height="19px"/>
 
 <div align="center">
 
