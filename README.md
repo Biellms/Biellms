@@ -77,9 +77,9 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 
   <a href="https://github.com/Biellms">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Biellms&show_icons=true&theme=nord&include_all_commits=true&count_private=false"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=nord"/>
+  <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biellms&layout=compact&langs_count=6&theme=nord"/>
 
   </a>
 
@@ -100,7 +100,7 @@ Acredito no poder da criatividade e da liberdade que a programação oferece par
 <img align="right" src="https://i.pinimg.com/736x/d4/df/50/d4df5074d6c32cd5554dcbfed8bffb50.jpg" width="150" alt="Tom Smoking" />
 
 > _"Life is a journey through the unknown, and though your eyes and mind may sometimes deceive you, your heart will never lie."_ 🤍
-> **<h4>Thanks for visiting! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" height="19px"/>
+> **<h4>Thanks for visiting! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px"> </h4>** <img src="https://profile-counter.glitch.me/Biellms/count.svg" width="150px"/>
 
 <div align="center">
 
