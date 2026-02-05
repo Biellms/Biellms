@@ -14,7 +14,7 @@
 
 <img align="right" alt="pc-broke" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBleGFybmNvM2lpcmM4dzZ3eHJ3MjlmZHQ4YmQ0bHQ5djI2cnlzeCZlcD10MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Ex73AUevNVVoPw4/giphy.gif" width="170" />
 
-<p>Eu me chamo <b>Gabriel, 23y!</b> Sou desenvolvedor Java e apaixonado por tecnologia — especialmente por tudo que envolve programação. 🚀 Atualmente atuo como <b>Desenvolvedor Java Pleno</b> e sou Pós-Graduado em Desenvolvimento Full-Stack pela Descomplica Faculdade Digital.
+<p>Eu me chamo <b>Gabriel, 24y!</b> Sou desenvolvedor Java e apaixonado por tecnologia — especialmente por tudo que envolve programação. 🚀 Atualmente atuo como <b>Desenvolvedor Java Pleno</b> e sou Pós-Graduado em Desenvolvimento Full-Stack pela Descomplica Faculdade Digital.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela FAM, tenho certificação como Desenvolvedor Java Full-Stack pela Generation Brasil e também curso Técnico de Informática Máster. 🎓
 
